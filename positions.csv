@@ -1,0 +1,24 @@
+institution,title,loc,start,end,description_1,description_2,description_3,section,order
+"Sun Yat-Sen University, SYSU","Ph.D student, Molecular Medicine","Guangzhou, CN",2019,present,Zhongshan School of Medicine,NA,NA,education,1
+"Fujian Agriculture and Forestry University, FAFU","M.S., Bioinformatics","Fuzhou, CN",2016,2019,College of Life Sciences,NA,NA,education,2
+"Wuhan Polytechnic University, WHPU","B.S., English","Wuhan, CN",2013,2016,School of Foreign Languages,Second Bachelor's degree,NA,education,3
+"Wuhan Polytechnic University, WHPU","B.S., Biotechnology","Wuhan, CN",2012,2016,School of Biology and Pharmaceutical Engineering,NA,NA,education,4
+NA,Second-level Certificate for National Computer,"Fuzhou, CN",2017,2017,"Fujian Agriculture and Forestry University, FAFU",NA,NA,certificate,NA
+NA,College English Test Band 6 Certificate,"Wuhan, CN",2015,2015,"Wuhan Polytechnic University, WHPU",NA,NA,certificate,NA
+NA,College English Test Band 4 Certificate,"Wuhan, CN",2014,2014,"Wuhan Polytechnic University, WHPU",NA,NA,certificate,NA
+NA,National Scholarship for Postgraduates,"Fuzhou, CN",2018,2018,"Fujian Agriculture and Forestry University, FAFU",NA,NA,award,NA
+NA,Merit Student,,2018,2018,"Fujian Agriculture and Forestry University, FAFU",NA,NA,award,NA
+NA,National Encouragement Scholarship,"Wuhan, CN",2015,2015,"Wuhan Polytechnic University, WHPU",NA,NA,award,NA
+NA,National Encouragement Scholarship,,2014,2014,"Wuhan Polytechnic University, WHPU",NA,NA,award,NA
+NA,Outstanding Student,,2014,2014,"Wuhan Polytechnic University, WHPU",NA,NA,award,NA
+NA,National Encouragement Scholarship,,2013,2013,"Wuhan Polytechnic University, WHPU",NA,NA,award,NA
+NA,Excellent Student Cadres,,2013,2013,"Wuhan Polytechnic University, WHPU",NA,NA,award,NA
+NA,Outstanding Young Volunteer,,2013,2013,"Wuhan Polytechnic University, WHPU",NA,NA,award,NA
+"_**Genomics Proteomics Bioinformatics**_. 2020, S1672-0229(18)30216-X.",[Tung Tree (Vernicia Fordii) Genome Provides A Resource for Understanding Genome Evolution and Improved Oil Production](https://doi.org/10.1016/j.gpb.2019.03.006),N/A,2020,2020,"Zhang L^#^^\*^, Liu M^#^, Long H^#^, **<u>Dong W</u>**^#^,Pasha A, Esteban E, Li W, Yang X, Li Z, Song A, Ran D, Zhao G, Zeng Y, Chen H, Zou M, Li J, Liang F, Xie M, Hu J, Wang D, Cao HP, Provart NJ, Zhang LS, Tan X^\*^",NA,Impact Factor = 6.597,academic_articles,NA
+"_**Nature**_. 2020, 577(7788):79-84.",[The Water lily Genome and the Early Evolution of Flowering Plants](https://doi.org/10.1038/s41586-019-1852-5),N/A,2020,2020,"Zhang L^#^^\*^, Chen F^#^, Zhang X^#^, Li Z^#^, Zhao Y^#^, Lohaus R^#^, Chang X^#^, **<u>Dong W</u>**, Ho SYW, Liu X, Song A, Chen J, Guo W, Wang Z, Zhuang Y, Wang H, Chen X, Hu J, Liu Y, Qin Y, Wang K, Dong S, Liu Y, Zhang S, Yu X, Wu Q, Wang L, Yan X, Jiao Y, Kong H, Zhou X, Yu C, Chen Y, Li F, Wang J, Chen W, Chen X, Jia Q, Zhang C, Jiang Y, Zhang W, Liu G, Fu J, Chen F, Ma H, Van de Peer Y, Tang H",NA,Impact Factor = 43.07,academic_articles,NA
+"__*Horticultural Plant Journal*__. 2019, 5 (6), 268-280.",[Transcriptomic Analysis of Differentially Expressed Genes and Alternative Splicing Events Associated with Crassulacean Acid Metabolism in Orchids](https://doi.org/10.1016/j.hpj.2019.12.001),N/A,2019,2019,"Zhang Y, **<u>Dong W</u>**, Zhao X, Song A, Guo K, Liu Z, Zhang L^\*^",NA,,academic_articles,NA
+"__*Genome Biology and Evolution*__. 2018, 10 (11), 3026-3037.",[Expansion and Functional Divergence of the SHORT VEGETATIVE PHASE (SVP) Genes in Eudicots](https://doi.org/10.1093/gbe/evy235),N/A,2018,2018,"Liu X^#^, Sun Z^#^, **<u>Dong W</u>**^#^, Wang Z, Zhang L^\*^",NA,Impact Factor = 3.726,academic_articles,NA
+"__*Genome Biology and Evolution*__. 2018, 10 (7), 1730-1744.",[MORC Domain Definition and Evolutionary Analysis of the MORC Gene Family in Green Plants](https://doi.org/10.1093/gbe/evy136),N/A,2018,2018,"**<u>Dong W</u>**, Vannozzi A, Chen F, Hu Y, Chen Z, Zhang L^\*^",NA,Impact Factor = 3.726,academic_articles,NA
+"__*Database*__. 2018, 2018:bay113.",[MGH: A Genome Hub for the Medicinal Plant Maca (Lepidium Meyenii)](https://doi.org/10.1093/database/bay113),N/A,2018,2018,"Chen J, Zhang J, Lin M, **<u>Dong W</u>**, Guo X, Dong Y, Wang Z, Zhang L^\*^, Chen F^\*^",NA,Impact Factor = 3.683,academic_articles,NA
+"__*Database*__. 2018, 2018:bay072..",[realDB: A Genome and Transcriptome Resource for the Red Algae (Phylum Rhodophyta)](https://doi.org/10.1093/database/bay072),N/A,2018,2018,"Chen F^#^, Zhang J^#^, Chen J^#^, Li X^#^, **<u>Dong W</u>**,Hu J, Lin M, Liu Y, Li G, Wang Z, Zhang L^\*^",NA,Impact Factor = 3.683,academic_articles,NA
+"__*Frontiers in Plant Science*__. 2018, 9:418.",[The Sequenced Angiosperm Genomes and Genome Databases](https://doi.org/10.3389/fpls.2018.00418),N/A,2018,2018,"Chen F^#^, **<u>Dong W</u>**^#^, Zhang J, Guo X, Chen J, Wang Z, Lin Z, Tang H, Zhang L^\*^",NA,Impact Factor = 4.106,academic_articles,NA
